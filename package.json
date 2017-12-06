@@ -1,10 +1,6 @@
 {
   "name": "electron-updater-example",
-<<<<<<< HEAD
   "version": "0.6.0",
-=======
-  "version": "0.7.1",
->>>>>>> e42b3749d38423359421c65424430373cf2079ef
   "main": "main.js",
   "description": "electron-updater example project",
   "author": "Matt Haggard",
