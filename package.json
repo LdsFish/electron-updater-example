@@ -22,7 +22,7 @@
       "repo": "electron-updater-example"
   }],
   
-    "appId": "com.github.iffy.electronupdaterexample",
+    "appId": "com.github.LdsFish.electronupdaterexample",
     "mac": {
       "category": "your.app.category.type",
       "target": [
